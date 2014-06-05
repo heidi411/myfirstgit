@@ -1,2 +1,3 @@
-This is a draft of my thesis for my second ph.D.
 
+This is a draft of my thesis for my second ph.D.
+This is the second sentence.
